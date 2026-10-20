@@ -1,0 +1,1 @@
+V036: Artifact 'spec_alpha' is connected to process 'implement_core' both as an input (>>) and as feedback (>>?); keep only one connection
